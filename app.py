@@ -102,7 +102,7 @@ st.markdown("""
 # IRRI logo
 # ==========================
 current_dir = os.path.dirname(os.path.abspath(__file__))
-st.sidebar.image(os.path.join(current_dir, "icon", "irri.png"), width=160)
+st.sidebar.image("https://github.com/tuyennt812/mechanizationdashboard/blob/172e51fbb9840281c3e1be874b0bfe806f23a194/icon/IRRI.png"), width=160)
 
 # ✅ SHOW MAP IF SELECTED
 # ==========================
