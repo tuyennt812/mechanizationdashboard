@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+plotnine
+base64
+pathlib
+openpyxl
