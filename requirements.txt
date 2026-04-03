@@ -1,7 +1,8 @@
+
 streamlit
 pandas
-matplotlib
+numpy
 plotnine
-base64
-pathlib
+matplotlib
 openpyxl
+Pillow
